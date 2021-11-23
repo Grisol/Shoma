@@ -1,0 +1,2 @@
+# Shoma
+Mi primer repositorio.
